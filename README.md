@@ -1,4 +1,4 @@
-# Proyecto-Function
+# Proyecto Git
 
 ## Descripcion
 Repo de prueba
