@@ -10,4 +10,4 @@ def crear_mensajes(nombre, apellido, edad, anio_nacimiento):
     print(mensaje2)
 
 # Invocar la función con tus datos
-crear_mensajes("Lautaro", "Wild", 16, 2001)
+crear_mensajes("Pinpon", "Wild", 16, 2001)
